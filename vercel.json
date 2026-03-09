@@ -1,5 +1,4 @@
 {
-  "//": "Vercel 配置：只部署前端静态资源（Vite build 输出在 dist/public）",
   "buildCommand": "pnpm install && pnpm build",
   "outputDirectory": "dist/public"
 }
